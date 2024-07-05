@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Prediksi Stunting</string>
+    <string name="apa_itu_stunting">Stunting adalah kondisi gagal tumbuh pada anak balita akibat kekurangan gizi kronis terutama pada 1000 hari pertama kehidupan. Kondisi ini menyebabkan anak lebih pendek untuk usianya dan memiliki keterlambatan perkembangan.</string>
+    <string name="penyebab_stunting">Penyebab utama stunting meliputi asupan gizi yang tidak memadai, infeksi berulang, dan praktik pengasuhan yang kurang baik. Faktor lingkungan seperti sanitasi yang buruk juga berkontribusi terhadap risiko stunting.</string>
+    <string name="pencegahan_stunting">Upaya pencegahan stunting termasuk pemberian ASI eksklusif selama 6 bulan pertama, pemberian makanan pendamping ASI yang kaya gizi, imunisasi lengkap, pengobatan infeksi dengan cepat, dan peningkatan sanitasi lingkungan.</string>
+    <string name="information">Informasi\n</string>
 </resources>
